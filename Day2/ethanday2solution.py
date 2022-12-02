@@ -1,4 +1,4 @@
-text = (open("day2.txt")).read()
+text = (open("ethanday2.txt")).read()
 
 # initializing list
 moves = {
