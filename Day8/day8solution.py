@@ -13,7 +13,6 @@ for i in range(len(horizontal)):
     horizontal[i].pop(0)
     horizontal[i].pop(-1)
 
-# print(text)
 
 edgeLength = len(text[0])
 
@@ -41,7 +40,6 @@ for i in range(len(horizontal)):
         
     
 print(counter)
-print(scenicScore)
 
 # # # 30373
 # # # 25512
