@@ -1,0 +1,13 @@
+$ cd ..
+$ cd ..
+$ cd whrtnh
+$ ls
+dir jbbwzd
+dir nblfzrb
+$ cd jbbwzd
+$ ls
+88613 jhc.qqw
+$ cd ..
+$ cd nblfzrb
+$ ls
+164792 zlnbcwr
