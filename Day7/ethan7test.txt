@@ -1,13 +1,12 @@
-$ cd ..
-$ cd ..
-$ cd whrtnh
+$ cd /
 $ ls
-dir jbbwzd
-dir nblfzrb
-$ cd jbbwzd
+dir btsgrbd
+7000 cprq.fmm
+dir gcbpcf
+$ cd btsgrbd
 $ ls
-88613 jhc.qqw
+8000 bop.txt
 $ cd ..
-$ cd nblfzrb
+$ cd gcbpcf
 $ ls
-164792 zlnbcwr
+9000 bruh.txt
