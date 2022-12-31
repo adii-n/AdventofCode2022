@@ -6,7 +6,7 @@ class Me():
     def __str__(self):
         return f"({self.x}, {self.y}, {self.elevation})"
     def get_coords(self):
-        return (self.x, self.y)
+        return (self.y, self.x)
     def move_right(self, elevation_array):
         self.x += 1
         self.elevation = elevation_array[self.y][self.x]

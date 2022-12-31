@@ -1,9 +1,10 @@
 import numpy as np
 from Me import Me
 from Landscape import Landscape
+from astar import Astar
 
 text = open("ethan12.txt").read().splitlines()
-text = open("sample12.txt").read().splitlines()
+# text = open("sample12.txt").read().splitlines()
 elevation_array = []
 for line in text:
     array_to_append = []
@@ -19,6 +20,11 @@ numpy_elevation_array = np.array(elevation_array)
 
 
 landscape = Landscape(numpy_elevation_array)
-print(landscape)
-landscape.me_move("right")
-print(landscape)
+# print(landscape)
+# landscape.me_move("right")
+# print(landscape)
+# path = landscape.find_path()
+# print(path)
+# astar = Astar()
+path = landscape.find_path()
+print(path)
